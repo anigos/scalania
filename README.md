@@ -1,5 +1,6 @@
 # [Scalania](http://scalania.pl) - learn Scala by examples
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c5597c6014394f529d44b338fbc346e9)](https://app.codacy.com/app/anigos/scalania?utm_source=github.com&utm_medium=referral&utm_content=anigos/scalania&utm_campaign=Badge_Grade_Dashboard)
 [![Join the chat at https://gitter.im/jaceklaskowski/scalania](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jaceklaskowski/scalania?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/jaceklaskowski/scalania.svg?branch=master)](https://travis-ci.org/jaceklaskowski/scalania)
